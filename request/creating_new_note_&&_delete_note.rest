@@ -5,3 +5,7 @@ Content-Type: application/json
     "content": "VS code rest is a pretty handy tool",
     "important": true
 }
+
+####
+
+DELETE http://localhost:3001/api/notes/690a8ca9824f521ad140a62d
